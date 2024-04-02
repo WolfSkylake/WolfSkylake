@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @WolfSkylake
 - 👋 你好，这里是@WolfSkylake
-- 🌱 I’m currently learning GoLang
-- 🌱 最近在学GoLang，一起加油呀
 
 
 <!---
